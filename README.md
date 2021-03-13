@@ -7,7 +7,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gurnoork)
 
-I am an aspiring web developer and have experience in working in many startups as a graphic designer and front end web developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+I am an aspiring web developer and  Interested in making life easier by creating utility tools. Fascinated about space.
 
 
 Here are some ideas to get you started:
@@ -80,7 +80,7 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 <h1>Hi There, I am <a  href="https://techytushar.github.io/">Gurnoor KAur</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a third year **aspiring web developer**, pursuing my B.Tech from **Lovely Professional University** in **Computer Science** stream. My day to day work revolves around building Machine Learning models for various interseting problems and deploying them to production, at scale. In my free time I like to write and paint. I am open to collaborate on interesting projects.
+I'm a third year **aspiring web developer**, pursuing my B.Tech from **Lovely Professional University** in **Computer Science** stream.I have experience in working in many startups as a graphic designer and front end web developer👨‍💻..In my free time I like to write and paint. I am open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
