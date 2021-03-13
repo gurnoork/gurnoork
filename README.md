@@ -42,13 +42,14 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
 
 ### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START
 - [The Art of Hyperparameter Tuning in Deep Neural Nets by Example](https://towardsdatascience.com/the-art-of-hyperparameter-tuning-in-deep-neural-nets-by-example-685cb5429a38?source=rss-e7d740ac1a25------2)
 - [Machine Learning with Android 11: What’s new](https://proandroiddev.com/machine-learning-with-android-11-whats-new-1a8d084c7398?source=rss-e7d740ac1a25------2)
 - [Machine Learning with Android 11: What’s new](https://towardsdatascience.com/machine-learning-with-android-11-whats-new-e8c829e9452?source=rss-e7d740ac1a25------2)
 - [Working with Complex Image data for CNNs](https://medium.com/@rishit.dagli/working-with-complex-image-data-for-cnns-187fb4526893?source=rss-e7d740ac1a25------2)
 - [Deploying models to production with TensorFlow model server](https://towardsdatascience.com/deploying-models-to-production-with-tensorflow-model-server-225a81859031?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
+-->
 
 <!--- 
 ### Tech communities
@@ -57,7 +58,7 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 |---------|---------|------|
 |<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
 -->
--->
+
 [![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=gurnoork&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/gurnoork)
 
 <!---
