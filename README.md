@@ -7,6 +7,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=<gurnoork>&theme=<dark>" />
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gurnoork&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gurnoork&langs_count=5&theme=tokyonight)]()
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gurnoork)
 
 
 Here are some ideas to get you started:
