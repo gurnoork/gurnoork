@@ -49,7 +49,6 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 - [Working with Complex Image data for CNNs](https://medium.com/@rishit.dagli/working-with-complex-image-data-for-cnns-187fb4526893?source=rss-e7d740ac1a25------2)
 - [Deploying models to production with TensorFlow model server](https://towardsdatascience.com/deploying-models-to-production-with-tensorflow-model-server-225a81859031?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
--->
 
 <!--- 
 ### Tech communities
