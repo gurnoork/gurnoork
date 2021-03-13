@@ -8,7 +8,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gurnoork&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gurnoork&langs_count=5&theme=tokyonight)]()
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gurnoork)
-
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=gurnoork&repo=dev.to)](https://github.com/gurnoork/dev.to)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurnoork)](https://github.com/gurnoork/github-readme-stats)
 
 Here are some ideas to get you started:
 
