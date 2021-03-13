@@ -5,6 +5,8 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/gurnoork/gurnoork/master/wave.gif" width="30px">
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=gurnoork)
+
 
 Here are some ideas to get you started:
 
