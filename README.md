@@ -3,8 +3,8 @@
 <!--
 **gurnoork/gurnoork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<gurnoork>&theme=<dark>" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/gurnoork/gurnoork/master/wave.gif" width="30px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=<gurnoork>&theme=<dark>" />
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gurnoork&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gurnoork&langs_count=5&theme=tokyonight)]()
 
