@@ -7,8 +7,10 @@ I'm a third year **aspiring web developer**, pursuing my B.Tech from **Lovely Pr
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
-
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="JS" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" />
+<!--
+<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="JS" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" /> -->
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
+|--|--|--|
 |--|--|--|
 
 
